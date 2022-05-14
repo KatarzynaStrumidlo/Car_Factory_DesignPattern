@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "faf7f0fa-1cf9-4bb6-9593-2cae07a09934": {
+      "ProjectGuid": "faf7f0fa-1cf9-4bb6-9593-2cae07a09934",
+      "DisplayName": "Car_factory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
